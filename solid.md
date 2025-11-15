@@ -2,11 +2,13 @@
 
 <div dir="rtl">
 
- - Tight Coupling  occurs when modules are highly dependent on each   
+ **- Tight Coupling** 
+ -  occurs when modules are highly dependent on each   
    other changes in one module can have a significant impact on other   
    modules. difficult to modify, test, and maintain independently.
    
- - Loose Coupling occurs when modules have minimal dependencies on each 
+ **- Loose Coupling**
+ -  occurs when modules have minimal dependencies on each 
    other.  can be modified, tested, and maintained independently without
    affecting other parts of the system.
 
