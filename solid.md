@@ -21,6 +21,7 @@
 
 
 A class should have only one responsibility and one reason to change
+
 الـ Class بتاعتك المفترض يكون ليها مسؤولية واحدة بس، وسبب واحد بس هو اللي يخليك تفكر تعمل فيها Change
 
  بس ده مش معناه انك تعمل Class لكل Methods الموجوده
