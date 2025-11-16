@@ -233,7 +233,8 @@ void initGetIt() {
 
     dio
       ..options.connectTimeout = 20 * 1000
-      ..options.receiveTimeout = 20 * 1000;
+      ..options.receiveTimeout = 20 * 1000
+..baseUrl: AppStrings.baseUrl,;
   
   
 
